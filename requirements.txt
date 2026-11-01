@@ -1,10 +1,5 @@
-fastapi
-uvicorn
 streamlit
 pandas
-plotly
-streamlit-autorefresh
-psutil
 psycopg2-binary
 python-dotenv
-pywin32
+psutil
